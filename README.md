@@ -1,2 +1,2 @@
-# active_learning_hub
-for newbies
+# active-learning-hub
+Overview of Active Learning algorithms, frameworks and more!
